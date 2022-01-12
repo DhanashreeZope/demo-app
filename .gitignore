@@ -4,6 +4,9 @@
 *.class
 #create conflict
 #create test conflict
+=======
+#test merge
+#merge conflict
 # Package Files #
 *.jar
 *.war
