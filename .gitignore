@@ -3,6 +3,7 @@
 # ------------------------------------------------------------------------------ #
 *.class
 #create conflict
+#create test conflict
 # Package Files #
 *.jar
 *.war
